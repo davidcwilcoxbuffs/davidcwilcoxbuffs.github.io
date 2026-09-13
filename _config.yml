@@ -2,3 +2,14 @@ theme: jekyll-theme-minimal
 title: "David Wilcox"
 description: Portfolio
 logo: /img/schweitzer_ss.jpg
+
+title: "David Wilcox"
+url: "https://davidcwilcoxbuffs.github.io"  
+baseurl: ""                     
+remote_theme: andrewhwanpark/brutalist-blog
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
