@@ -13,6 +13,10 @@ I am excited to further my geospatial python skills, and delve into the world of
 
 I hope to create a robust model that can estimate ground level pollution levels using remotely sensed tropospheric column measurements. Which in hopes will create datasets that can be used in communities in which in-situ air quality data is not available, or under developed.
 
+<img
+  src = "./img/schweitzer_ss.jpg"
+  height = "500px"
+  width = "500px" >
 
 # Portfolio
 ### First Interactive Map created for Earth Analytics Bootcamp
