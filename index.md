@@ -20,7 +20,7 @@ I hope to create a robust model that can estimate ground level pollution levels 
 
 ---
 <p align = "center">
-  <img src = "./img/face.JPG" >
+  <img src = "./img/face.JPG" width= "320">
 </p>
 ---
 
