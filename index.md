@@ -12,7 +12,7 @@ B.S. Environmental Geosciences, B.A. Environmental Studies (University of Oregon
 
 ### Contact me: 
 - linkedin: [www.linkedin.com/in/david-c-wilcox](https://www.linkedin.com/in/david-c-wilcox)
-- github: [davidwilcoxbuffs](https://github.com/davidcwilcoxbuffs)
+- github: [davidcwilcoxbuffs](https://github.com/davidcwilcoxbuffs)
 - email: david.wilcox@colorado.edu
 
 ---
