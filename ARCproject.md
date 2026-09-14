@@ -13,7 +13,7 @@ layout: default
     pdf.getPage(1).then(page => {
       const canvas = document.getElementById('pdf-canvas');
       const context = canvas.getContext('2d');
-      const viewport = page.getViewport({scale: 0.25});
+      const viewport = page.getViewport({scale: 0.4});
       canvas.width = viewport.width;
       canvas.height = viewport.height;
       page.render({canvasContext: context, viewport: viewport});
