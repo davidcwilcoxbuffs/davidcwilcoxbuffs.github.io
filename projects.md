@@ -8,7 +8,7 @@ permalink: /earthlab_projects.html
 
 ___
 
-### [Ames Research Center Fog Model (Contributor)]
+### [Ames Research Center Fog Model (Contributor)](/ARCproject.md)
 
 ---
 
