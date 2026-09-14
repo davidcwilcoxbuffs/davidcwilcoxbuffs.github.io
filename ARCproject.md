@@ -6,6 +6,6 @@ layout: default
 ---
 ## Project Poster
 
-<iframe src="Arc_poster.pdf" width="100%" height="800" style="border: none;"></iframe>
+<iframe src="Arc_poster.pdf#page=1" width="100%" height="800" style="border: none;"></iframe>
 
 
