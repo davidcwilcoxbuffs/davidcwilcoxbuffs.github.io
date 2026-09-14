@@ -4,7 +4,7 @@ title: Earth Data Analytics Projects
 permalink: /earthlab_projects.html
 ---
 
-### [OSM interactive map of Cassis, Marseille, France]
+### [OSM interactive map of Cassis, Marseille, France](/assis.md)
 
 ___
 
