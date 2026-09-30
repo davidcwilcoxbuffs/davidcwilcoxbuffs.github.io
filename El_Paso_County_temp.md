@@ -56,7 +56,7 @@ Data seems to be normally distributed, though with a slight skew towards the war
 
 ### Anuual Temperature in El Paso County, CO (1900-2023), shows clear trend of warming throughout time, despite El Nino-Southern Oscillation (ENSO) fluctuations. 
 
-A consistent warming trend is shown through analysis of temperature data time-series. With a OLS regression analysis exhibiting a slope of 0.007832732420920455 Which communicates a warming trend of degrees per year.
+A consistent warming trend is shown through analysis of temperature data time-series. With a OLS regression analysis exhibiting a slope of 0.007832732420920455, which communicates a warming trend of degrees per year.
 
 When doing the same regression analysis over 1980-2023 we can see the warmer trend is even greater, with a trendline slope of 0.0323349776838149, which communicates a warming trend of 0.0323349776838149 degrees celsius per year. 
 
