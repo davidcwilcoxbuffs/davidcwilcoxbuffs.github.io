@@ -25,6 +25,7 @@ layout: default
   </div>
 </div>
 
+
 This interactive graph allows the user to locate minimums and maximums of the data by hovering their cursor over points of interest. As well as giving a general visualization of trends in annual temperature in El Paso County throughout time.
 - The minimum mean annual temp is 16.778 Celsius in 1915.
 - The maximum mean annual temp is 21.883 Celsius in 1937.
