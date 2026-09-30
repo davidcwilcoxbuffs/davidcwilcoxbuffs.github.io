@@ -9,6 +9,8 @@ layout: default
 - Increased wildfire appearance and scale of impact of the fires (https://www.colorado.edu/today/2026/07/23/wildfires-are-moving-faster-heres-what-means-colorado)
 - Lower water levels and increased drought (Udall, 2017, https://doi.org/10.1002/2016WR019638 Digital Object Identifier (DOI))
 
+---
+
 ## Map of El Paso County, Colorado (Area of Interest)
 
 <div style="display: flex; justify-content: center;">
@@ -16,6 +18,8 @@ layout: default
     <iframe src="./img/elpaso_map.html" width="100%" height="600" frameborder="0" style="display: block;"></iframe>
   </div>
 </div>
+
+---
 
 ## Yearly Average Temperature
 
@@ -31,17 +35,18 @@ This interactive graph allows the user to locate minimums and maximums of the da
 - The maximum mean annual temp is 21.883 Celsius in 1937.
 - The data shows clear multi-year fluctuation patterns, likely due to El Niño-Southern Oscillation (ENSO) fluctuations (ocean current-driven weather patterns, El Niño, La Niña)
 
+--- 
 
 ## Temperature Visualizations
 
 ### Assumptions and potential caveats with our analysis:
-**Random error:**
+- **Random error:**
 Though we assume that all error beyond climate change is random, as mentioned above there are other factors that may directly influence temperature change such as shifting teleconnections (seasonal weather patterns).
-**Stationarity:**
+- **Stationarity:**
 Fanning patterns across time within El Paso County annual temperature data seems to shift in ~40 year periods. 1900-1940 shows high variability and minima maxima extremes, charecteristic to temperature trends in the state during that period (Ie: Boulder annual temperature data). After 1940 data seems to have an inward fanning trend, however, around 1990 varyability between minima and maxima extremes increase. This may be due to factors outside of the assumed generalized climate change affect such as increase large-scale development, and loss of green space. 
-**Linearity:**
+- **Linearity:**
 There is a clear trend of warming seen from 1900-2023. However extreme shifts in ~1930 disturp the linear trend, and influence the regression, potentially leading a less steep trendline slope than what would be present without those extreme cold periods.
-**Gaussian Distribution:**
+- **Gaussian Distribution:**
 Data seems to be normally distributed, though with a slight skew towards the warmer extreme values.  
 
 <div style="text-align: center;">
