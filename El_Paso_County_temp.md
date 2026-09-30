@@ -33,7 +33,25 @@ This interactive graph allows the user to locate minimums and maximums of the da
 
 ## Temperature Visualizations
 
+### Assumptions and potential caveats with our analysis:
+**Random error:**
+Though we assume that all error beyond climate change is random, as mentioned above there are other factors that may directly influence temperature change such as shifting teleconnections (seasonal weather patterns).
+**Stationarity:**
+Fanning patterns across time within El Paso County annual temperature data seems to shift in ~40 year periods. 1900-1940 shows high variability and minima maxima extremes, charecteristic to temperature trends in the state during that period (Ie: Boulder annual temperature data). After 1940 data seems to have an inward fanning trend, however, around 1990 varyability between minima and maxima extremes increase. This may be due to factors outside of the assumed generalized climate change affect such as increase large-scale development, and loss of green space. 
+**Linearity:**
+There is a clear trend of warming seen from 1900-2023. However extreme shifts in ~1930 disturp the linear trend, and influence the regression, potentially leading a less steep trendline slope than what would be present without those extreme cold periods.
+**Gaussian Distribution:**
+Data seems to be normally distributed, though with a slight skew towards the warmer extreme values.  
+
 <div style="text-align: center;">
   <img src="./img/ElPaso_ann_temp.jpeg" height="600" width="700" alt="Annual Temperature" style="margin: 10px;">
   <img src="./img/ElPaso_ann_temp_1980_2023.jpeg" height="600" width="700" alt="Annual Temperature 1980-2023" style="margin: 10px;">
 </div>
+
+### Anuual Temperature in El Paso County, CO (1900-2023), shows clear trend of warming throughout time, despite El Nino-Southern Oscillation (ENSO) fluctuations. 
+
+A consistent warming trend is shown through analysis of temperature data time-series. With a OLS regression analysis exhibiting a slope of 0.007832732420920455 Which communicates a warming trend of degrees per year.
+
+When doing the same regression analysis over 1980-2023 we can see the warmer trend is even greater, with a trendline slope of 0.0323349776838149, which communicates a warming trend of 0.0323349776838149 degrees celsius per year. 
+
+This is likely due to the omission of cold extremes seen before 1980, which lead to the dampening of the trendline slope in the longer time series analysis. 
