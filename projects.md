@@ -18,5 +18,9 @@ ___
 
 ### [University of Oregon Balloon Project (Contributor)]
 
+---
+
+### [Climate Challenge, El Paso County, Colorado](/El_Paso_County_temp.md)
+
 
 
