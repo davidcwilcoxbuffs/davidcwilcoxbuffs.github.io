@@ -1,3 +1,4 @@
+layout: default
 ---
 <iframe src="./img/ElPaso_yearly_avg_temp.html" width="600" height="600">
 ---
