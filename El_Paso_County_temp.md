@@ -6,19 +6,23 @@ layout: default
 
 ## Yearly Average Temperature
 
-<div style="text-align: center;">
-  <iframe src="./img/ElPaso_yearly_avg_temp.html" width="600" height="600" frameborder="0"></iframe>
+<div style="display: flex; justify-content: center;">
+  <div style="max-width: 100%; width: 600px;">
+    <iframe src="./img/ElPaso_yearly_avg_temp.html" width="100%" height="600" frameborder="0" style="display: block;"></iframe>
+  </div>
 </div>
 
 ## Interactive Map
 
-<div style="text-align: center;">
-  <iframe src="./img/elpaso_map.html" width="600" height="600" frameborder="0"></iframe>
+<div style="display: flex; justify-content: center;">
+  <div style="max-width: 100%; width: 600px;">
+    <iframe src="./img/elpaso_map.html" width="100%" height="600" frameborder="0" style="display: block;"></iframe>
+  </div>
 </div>
 
 ## Temperature Visualizations
 
 <div style="text-align: center;">
-  <img src="./img/Elpaso_ann_temp.jpeg" width="320" alt="Annual Temperature">
-  <img src="./img/Elpaso_ann_temp_1980_2023.jpeg" width="320" alt="Annual Temperature 1980-2023">
+  <img src="./img/Elpaso_ann_temp.jpeg" width="320" alt="Annual Temperature" style="margin: 10px;">
+  <img src="./img/Elpaso_ann_temp_1980_2023.jpeg" width="320" alt="Annual Temperature 1980-2023" style="margin: 10px;">
 </div>
