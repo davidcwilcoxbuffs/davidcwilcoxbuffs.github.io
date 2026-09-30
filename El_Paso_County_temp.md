@@ -9,6 +9,14 @@ layout: default
 - Increased wildfire appearance and scale of impact of the fires (https://www.colorado.edu/today/2026/07/23/wildfires-are-moving-faster-heres-what-means-colorado)
 - Lower water levels and increased drought (Udall, 2017, https://doi.org/10.1002/2016WR019638 Digital Object Identifier (DOI))
 
+## Map of El Paso County, Colorado (Area of Interest)
+
+<div style="display: flex; justify-content: center;">
+  <div style="max-width: 100%; width: 600px;">
+    <iframe src="./img/elpaso_map.html" width="100%" height="600" frameborder="0" style="display: block;"></iframe>
+  </div>
+</div>
+
 ## Yearly Average Temperature
 
 <div style="display: flex;">
@@ -22,13 +30,6 @@ This interactive graph allows the user to locate minimums and maximums of the da
 - The maximum mean annual temp is 21.883 Celsius in 1937.
 - The data shows clear multi-year fluctuation patterns, likely due to El Niño-Southern Oscillation (ENSO) fluctuations (ocean current-driven weather patterns, El Niño, La Niña)
 
-## Interactive Map
-
-<div style="display: flex; justify-content: center;">
-  <div style="max-width: 100%; width: 600px;">
-    <iframe src="./img/elpaso_map.html" width="100%" height="600" frameborder="0" style="display: block;"></iframe>
-  </div>
-</div>
 
 ## Temperature Visualizations
 
