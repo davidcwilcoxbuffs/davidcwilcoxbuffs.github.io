@@ -7,7 +7,7 @@ layout: default
 ## Yearly Average Temperature
 
 <div style="display: flex; justify-content: center;">
-  <div style="max-width: 100%; width: 600px;">
+  <div style="max-width: 100%; width: 420px;">
     <iframe src="./img/ElPaso_yearly_avg_temp.html" width="100%" height="600" frameborder="0" style="display: block;"></iframe>
   </div>
 </div>
