@@ -23,6 +23,6 @@ layout: default
 ## Temperature Visualizations
 
 <div style="text-align: center;">
-  <img src="./img/ElPaso_ann_temp.jpeg" height="400" width="800" alt="Annual Temperature" style="margin: 10px;">
-  <img src="./img/ElPaso_ann_temp_1980_2023.jpeg" height="400" width="800" alt="Annual Temperature 1980-2023" style="margin: 10px;">
+  <img src="./img/ElPaso_ann_temp.jpeg" height="600" width="800" alt="Annual Temperature" style="margin: 10px;">
+  <img src="./img/ElPaso_ann_temp_1980_2023.jpeg" height="600" width="800" alt="Annual Temperature 1980-2023" style="margin: 10px;">
 </div>
