@@ -8,4 +8,3 @@ layout: default
 ---
 <img src = "./img/Elpaso_ann_temp_1980_2023.jpeg" width= "320">
 ---
-<img src = "./img/.jpeg" width= "320">
