@@ -3,6 +3,7 @@ layout: default
 ---
 
 # El Paso County Temperature Analysis
+(link to repo for notebooks and data: https://github.com/davidcwilcoxbuffs/01-climate-fall)
 
 ### How is Climate Change impacting Colorado, and El Paso County? 
 - Longer, hotter summers and extreme heat events (https://climatechange.colostate.edu/)
