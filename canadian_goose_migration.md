@@ -37,6 +37,7 @@ Research shows similar patterns. Giles et al. (2013) used satellite transmitters
 - Late May to early June: Geese reach Hudson Bay.
 However, Canadian geese have a majority of populations that barely migrate, instead keeping residency within their North American Habitat (Fox & Leafloor 2018). Due to these residents, we have year-round hotspots, differing from data on other migration patterns of heavily migratory species. 
 
+European Populations tend to keep residency across Northern Europe
 #### References
 Also, most of our records come from eBird, so they may partly reflect where people are actively birding, and introduce an observation bias. 
 
