@@ -23,6 +23,9 @@ layout: default
   </div>
 </div>
 
+---
+
+
 ### Reflection of Data and Literature
 In our data Canadian Geese migrate north in March and peak in April-May (Southeastern US → Great Lakes → Southern Ontario and Quebec → Hudson Bay). They then stay for long periods in the Great Lakes and St. Lawrence regions, in which spring sitings are 3 times larger than winter. In summer they reach subarctic Canada. Returning South in September-October. In winter they concentrate in the Northeast US and Great Lakes. 
 Research shows similar patterns. Giles et al. (2013) used satellite transmitters to track geese from South Carolina to Quebec and found:
