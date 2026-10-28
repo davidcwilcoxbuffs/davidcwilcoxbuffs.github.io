@@ -12,6 +12,7 @@ layout: default
   </div>
 </div>
 
+Use the bar at the bottom of the map to visualize populations throughout the year of 2023
 
 ---
 
@@ -23,19 +24,20 @@ layout: default
   </div>
 </div>
 
+This graph shows migration trends in major ecoregions. Highlighting the dynamic 
 ---
 
 
 #### Reflection of Data and Literature
-In our data Canadian Geese migrate north in March and peak in April-May (Southeastern US → Great Lakes → Southern Ontario and Quebec → Hudson Bay). They then stay for long periods in the Great Lakes and St. Lawrence regions, in which spring sitings are 3 times larger than winter. In summer they reach subarctic Canada. Returning South in September-October. In winter they concentrate in the Northeast US and Great Lakes. 
+In our data Canadian Geese migrate north in March and peak in April-May (Southeastern US → Great Lakes → Southern Ontario and Quebec → Hudson Bay). They then stay for long periods in the Great Lakes and St. Lawrence regions, in which spring sightings are 3 times larger than winter. In summer, they reach subarctic Canada. Returning South in September-October. In winter, they concentrate in the Northeast US and Great Lakes. 
 Research shows similar patterns. Giles et al. (2013) used satellite transmitters to track geese from South Carolina to Quebec and found:
 - Early March: Northward migration starts.
 - Mid-March to early May: Long stopovers on farmland in southern Ontario and Quebec.
 - Late May to early June: Geese reach Hudson Bay.
-However, Candadian Geese have a majority of populations that barely migrate, instead keeping residency within their North American Habitat (Fox & Leafloor 2018). Due to these residents we have year round hotspots, dissenting to data of other migration patterns of heavily migratory species. 
+However, Canadian geese have a majority of populations that barely migrate, instead keeping residency within their North American Habitat (Fox & Leafloor 2018). Due to these residents, we have year-round hotspots, differing from data on other migration patterns of heavily migratory species. 
 
 #### References
-Also, most of our records come from eBird, so they may partly reflect where people are activly birding, and inflict an observation bias. 
+Also, most of our records come from eBird, so they may partly reflect where people are actively birding, and introduce an observation bias. 
 
 Giles, M. M., Jodice, P. G. R., Baldwin, R. F., Stanton, J. D., & Epstein, M. (2013). Spring migratory pathways and migration chronology of Canada Geese (Branta canadensis interior) wintering at the Santee National Wildlife Refuge, South Carolina. Canadian Field-Naturalist, 127(1), 17–25.
 
