@@ -34,7 +34,7 @@ Research shows similar patterns. Giles et al. (2013) used satellite transmitters
 - Late May to early June: Geese reach Hudson Bay.
 However, Candadian Geese have a majority of populations that barely migrate, instead keeping residency within their North American Habitat (Fox & Leafloor 2018). Due to these residents we have year round hotspots, dissenting to data of other migration patterns of heavily migratory species. 
 
-### References
+#### References
 Also, most of our records come from eBird, so they may partly reflect where people are activly birding, and inflict an observation bias. 
 
 Giles, M. M., Jodice, P. G. R., Baldwin, R. F., Stanton, J. D., & Epstein, M. (2013). Spring migratory pathways and migration chronology of Canada Geese (Branta canadensis interior) wintering at the Santee National Wildlife Refuge, South Carolina. Canadian Field-Naturalist, 127(1), 17–25.
