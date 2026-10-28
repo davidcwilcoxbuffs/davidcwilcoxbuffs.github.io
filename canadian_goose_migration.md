@@ -14,7 +14,7 @@ layout: default
 
 
 ## Migration Patterns per Ecoregion 2023 
-<div style="display: flex;">
+<div style="display: flex; justify-content: center;">
   <div style="max-width: 100%; width: 420px;">
     <iframe src="./img/Canadiangoose_migration_trend.html" width="800" height="400" frameborder="0" style="display: block;"></iframe>
   </div>
