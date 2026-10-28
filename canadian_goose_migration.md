@@ -24,7 +24,7 @@ Use the bar at the bottom of the map to visualize populations throughout the yea
   </div>
 </div>
 
-This graph shows migration trends in major ecoregions. Highlighting the dynamic 
+This graph shows migration trends in major ecoregions. It highlights the dynamic migratory patterns of Canadian Geese and the tendency for populations to remain resident in some regions, rather than migrate across hemispheres on a large scale. 
 ---
 
 
