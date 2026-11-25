@@ -26,5 +26,7 @@ ___
 
 ### [Migration Challenge, Canadian Geese, 2023](/canadian_goose_migration.md)
 
+---
 
+### [NDVI Impact of Waldo Canyon Fire, 2009-2012](/NDVI_portfolio.md)
 
