@@ -5,6 +5,13 @@ layout: default
 # NDVI For Waldo Canyon Fire (July, 2012)
 
 (link to repo for notebooks and data <https://github.com/davidcwilcoxbuffs/03-vegetation-fall-template>)
+<div style="display: flex;">
+  <div style="max-width: 200%; width: 600px;">
+  <iframe src="./img/waldo_canyon_per.html" width="200%" height="600" frameborder="0" style="display: block;"></iframe>
+  </div>
+</div>
+
+---
 
 ### Map of NDVI from 2009-2012
 <div style="display: flex;">
