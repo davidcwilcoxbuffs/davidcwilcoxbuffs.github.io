@@ -6,7 +6,7 @@ layout: default
 
 (link to repo for notebooks and data <https://github.com/davidcwilcoxbuffs/03-vegetation-fall-template>)
 <div style="display: flex;">
-  <div style="max-width: 200%; width: 600px;">
+  <div style="max-width: 200%; width: 400px;">
   <iframe src="./img/waldo_canyon_per.html" width="200%" height="600" frameborder="0" style="display: block;"></iframe>
   </div>
 </div>
