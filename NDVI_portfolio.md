@@ -31,7 +31,7 @@ Use the bar to the side to scroll through the time series
 ### Difference Map to show post-fire impact
 <div style="display: flex;">
   <div style="max-width: 100%; width: 4200px;">
-  <iframe src="./img/ndvi_diff_port.html" width="800" height="400" frameborder="0" style="display: block;"></iframe>
+  <iframe src="./img/ndvi_diff_july_port.html" width="800" height="400" frameborder="0" style="display: block;"></iframe>
   </div>
 </div>
 
